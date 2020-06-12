@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("9e914d56-1a14-4309-b8ba-a99eb201eae5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIconAutenticacionBasica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
